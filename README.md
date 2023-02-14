@@ -21,4 +21,4 @@ You can install dependencies using `yarn install` and run the app using `yarn de
 
 ## Visit Deployed App
 
-[Runway](https://letanque.github.io/react-interview/pages)
+[Runway](https://letanque.github.io/react-interview)
